@@ -1,0 +1,1 @@
+document.write("OUTPUT is CONGRATULATIONS! you have passed the techKaro Admission " )
